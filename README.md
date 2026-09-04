@@ -133,6 +133,7 @@ plt.show()
 
 <img width="357" height="354" alt="image" src="https://github.com/user-attachments/assets/92d91e5e-1790-4854-99c7-01581fffa42f" />
 
+<img width="506" height="539" alt="image" src="https://github.com/user-attachments/assets/9237ac8a-6e8b-4f83-9048-565f38659cbd" />
 
 # Result
 This project demonstrates the use of OpenCV and Hough Circle Transform for automatic coin detection and counting. It is a simple and effective application of Digital Image Processing.
